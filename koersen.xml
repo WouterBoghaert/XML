@@ -1,9 +1,10 @@
 <?xml version="1.0" ?>
 <koersen xmlns="http://www.vdab.be/koersen" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-	xsi:schemaLocation="http://www.vdab.be/koersen koersen.xsd">
-	<datum>2013-12-12</datum>
-	<munt code="USD" koers="1.1" />
-	<munt code="ZAR" koers="1.2" />
-	<munt code="XML" koers="1.3" />
-	<munt code="XXX" koers="1" />
+	xsi:schemalocation="http://www.vdab.be/koersen koersen.xsd">
+	<datum>2018-02-05</datum>
+	<munt code="USD" koers="1.3" />
+	<munt code="EUR" koers="1" />
+	<munt code="YEN" koers="0.03" />
+	<munt code="JUAN" koers="0.002" />
+	<munt code="SF" koers="0.8" />
 </koersen>
