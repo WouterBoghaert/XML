@@ -1,0 +1,9 @@
+<?xml version="1.0" ?>
+<pizzas>
+	<pizza prijs="6.5">
+		<naam>Napoletana</naam>
+	</pizza>
+	<pizza prijs="8">
+		<naam>Tonno</naam>
+	</pizza>
+</pizzas>
